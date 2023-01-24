@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @radman17
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning front-end
 
 <!---
 radman17/radman17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
